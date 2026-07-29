@@ -95,6 +95,9 @@ The Netflix Titles dataset was successfully preprocessed using Python. The datas
 
 ---
 
+##Lab2  simple&multiple linear regression
+
+
 ## GitHub Repository
 
 AI-ML Lab – Data Preprocessing Experiment
